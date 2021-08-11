@@ -4,10 +4,8 @@
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=themadnesstony.themadnesstony)
-
 ## About
-Hi, I'm Eugene, Software Engineer from Moscow, Russia.
+I'm Evgeny, Software Engineer from Moscow, Russia.
 
 
 <details>
@@ -74,6 +72,6 @@ Hi, I'm Eugene, Software Engineer from Moscow, Russia.
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themadnesstony&layout=compact&theme=onedark)](https://github.com/themadnesstony)
-![madnesstony GitHub stats](https://github-readme-stats.vercel.app/api?username=themadnesstony&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themadnesstony&layout=compact&theme=onedark)](https://github.com/rwxmad)
+![madnesstony GitHub stats](https://github-readme-stats.vercel.app/api?username=rwxmad&show_icons=true&theme=onedark)
 
